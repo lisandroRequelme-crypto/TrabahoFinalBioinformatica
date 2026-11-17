@@ -1,0 +1,8 @@
+1: Govaere O, Cockell S, Tiniakos D, Queen R, Younes R, Vacca M, Alexander L,
+Ravaioli F, Palmer J, Petta S, Boursier J, Rosso C, Johnson K, Wonders K, Day
+CP, Ekstedt M, Orešič M, Darlay R, Cordell HJ, Marra F, Vidal-Puig A, Bedossa P,
+Schattenberg JM, Clément K, Allison M, Bugianesi E, Ratziu V, Daly AK, Anstee
+QM. Transcriptomic profiling across the nonalcoholic fatty liver disease
+spectrum reveals gene signatures for steatohepatitis and fibrosis. Sci Transl
+Med. 2020 Dec 2;12(572):eaba4448. doi: 10.1126/scitranslmed.aba4448. PMID:
+33268509.
